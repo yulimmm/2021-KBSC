@@ -29,7 +29,7 @@
  
 
 ## 구현영상
-- [구현영상]https://www.youtube.com/watch?v=eEnxIa0pKeo
+- [구현영상](https://www.youtube.com/watch?v=eEnxIa0pKeo)
 
 ## 참고
 - https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md#deployment
